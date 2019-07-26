@@ -12712,3 +12712,4 @@
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Dodano %1 do <a href=""%2"">koszyka</a>.","module","Magento_Checkout"
 "Cash On Delivery Fee","Opłata za płatność za pobraniem","module","Brandung_CashOnDeliveryFee"
 "Please type the letters and numbers below","Wpisz litery i cyfry z pola poniżej","module","Magento_Captcha"
+"Forgot Your Password","Zapomniane hasło","module","Magento_Customer"
